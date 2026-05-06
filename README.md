@@ -10,6 +10,7 @@ This repository contains QGIS project files and screenshot outputs from ten comp
 - **Plugins:** No additional plugins required for the completed tutorials
 
 ## Completed Tutorials
+- Learning
 - [Making a Map](https://www.qgistutorials.com/en/docs/3/making_a_map.html)
 - [Working with Projections](https://www.qgistutorials.com/en/docs/3/working_with_projections.html)
 - [Working with Attributes](https://www.qgistutorials.com/en/docs/3/working_with_attributes.html)
