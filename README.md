@@ -1,5 +1,5 @@
 # gist-604b-assignment2
-GIST 604B Assignment 2: QGIS Desktop GIS Projects
+GIST 604B Assignment 2: QGIS Desktop GIS Project
 
 ## Overview
 This repository contains QGIS project files and screenshot outputs from ten completed tutorials on qgistutorials.com. The tutorials cover foundational desktop GIS skills including map creation, coordinate reference systems, attribute and spatial data management, vector and raster styling, and spatial analysis operations. Each tutorial was completed in QGIS and saved as a `.qgz` project file alongside a screenshot capturing the layers panel and map canvas. Together, these projects demonstrate a working proficiency in core QGIS workflows applicable to real-world GIS analysis tasks.
